@@ -1,0 +1,5 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+D:/Downloads/Projects/train.txt filter=lfs diff=lfs merge=lfs -text
+D:/Downloads/Projects/test.txt filter=lfs diff=lfs merge=lfs -text
+D:/Downloads/Projects/reviews.csv filter=lfs diff=lfs merge=lfs -text
