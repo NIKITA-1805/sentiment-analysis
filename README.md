@@ -1,6 +1,8 @@
 # Sentiment Analysis
 
-A Streamlit-based web app for performing sentiment analysis on Amazon product reviews using logistic regression and TF-IDF vectorization.
+This project is a sentiment analysis web application built with Streamlit that classifies Amazon product reviews as positive or negative using logistic regression and TF-IDF vectorization. It includes tools to preprocess raw text data, visualize sentiment distribution, and make real-time predictions from user input. The app supports large datasets with sampling options for efficient development and testing.
+
+The raw dataset is sourced from Kaggle and converted using a custom script for streamlined model training and deployment.
 
 ---
 
